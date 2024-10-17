@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning and Evolutionary AI**
 
-- 📫 How to reach me **egemertgulderen@gmail.com**
+- 📫 How to reach me [egemertgulderen@gmail.com](mailto:egemertgulderen@gmail.com) || [LinkedIn](https://linkedin.com/in/egemertgülderen)
 
 ###
 
