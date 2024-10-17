@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">AI Engineer passionate about Game Development and Psychology.</p>
 
 ###
 
@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egemertgulderen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### Skills
 
 <div align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="30" alt="tensorflow logo"  />
 </div>
 
-###
+### Contact Me
 
 <div align="left">
   <a href="egemertgulderen@gmail.com" target="_blank">
