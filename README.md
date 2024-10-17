@@ -47,9 +47,10 @@
 
 ### ✉️ Contact Me
 
-<p align="left">
-<a href="https://linkedin.com/in/egemertgülderen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egemertgülderen" height="30" width="40" /></a>
-</p>
+Email: egemertgulderen@gmail.com
+Location: Ankara, Turkey
+GitHub: egemertgulderen
+LinkedIn: in\egemertgulderen
 
 
 
