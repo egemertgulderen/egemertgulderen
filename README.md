@@ -2,12 +2,12 @@
 <h3 align="center">AI Engineer with a passion for Game Development and Psychology.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egemertgulderen" alt="egemertgulderen" /></a> </p>
+- 🎓 Education: Senior student, Bachelor’s degree in AI Engineering from Hacettepe University.
+- 🔭 I’m currently working on: **Afet & Sosyal Medya: Deprem - Duygu - Değişim**
 
-- 🔭 I’m currently working on **Afet & Sosyal Medya: Deprem - Duygu - Değişim**
+- 🌱 I’m currently learning: **Reinforcement Learning and Evolutionary AI**
 
-- 🌱 I’m currently learning **Reinforcement Learning and Evolutionary AI**
-
-- 📫 How to reach me **egemertgulderen@gmail.com** | [LinkedIn](https://linkedin.com/in/egemertgülderen)
+- 📫 How to reach me: **egemertgulderen@gmail.com** | [LinkedIn](https://linkedin.com/in/egemertgülderen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
