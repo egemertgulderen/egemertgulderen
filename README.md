@@ -1,8 +1,11 @@
-<h2 align="left">Hi 👋! I'm Ege Mert Gülderen</h2>
+<h1 align="center">Hi 👋, I'm Ege Mert Gülderen</h1>
+<h3 align="center">AI Engineer with a passion for Game Development and Psychology.</h3>
 
-###
+- 🔭 I’m currently working on **Afet & Sosyal Medya: Deprem - Duygu - Değişim**
 
-<p align="left">AI Engineer passionate about Game Development and Psychology.</p>
+- 🌱 I’m currently learning **Reinforcement Learning and Evolutionary AI**
+
+- 📫 How to reach me **egemertgulderen@gmail.com**
 
 ###
 
