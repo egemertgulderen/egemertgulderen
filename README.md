@@ -39,13 +39,13 @@
 ## Projects
 ### 🎮 Game Development
 - **[Angband-inspired Roguelike](https://github.com/egemertgulderen/PythonRoguelike)**: A classic roguelike game developed in Python, featuring procedural generation and strategic gameplay.
-- **[Particle Physics Simulation](https://github.com/your-particle-physics-repo)**: Developed a particle physics simulation game from scratch using Python, focusing on realistic behavior and interaction of particles.
-- **[Procedural Dungeon Crawler](https://github.com/your-dungeon-crawler-repo)**: Created a Unity-based dungeon crawler inspired by games like *Enter the Gungeon*, with procedural generation, combat system, and power-ups.
+- **[Particle Physics Simulation](https://github.com/egemertgulderen/Python-Particle-System)**: Developed a particle physics simulation game from scratch using Python, focusing on realistic behavior and interaction of particles.
+- **[Procedural Dungeon Crawler](https://github.com/egemertgulderen/RoguelikeJam)**: Created a Unity-based dungeon crawler inspired by games like *Enter the Gungeon*, with procedural generation, combat system, and power-ups.
 
 ### 🤖 Artificial Intelligence
 - **[3D Anomaly Detection](https://github.com/your-3d-anomaly-detection-repo)**: An autoencoder-based project for detecting anomalies in 3D models using the MVTec dataset.
 - **[Sentiment Analysis on Earthquake Tweets](https://github.com/your-sentiment-analysis-repo)**: Analyzing Twitter responses to the 2023 earthquake in Turkey using NLP techniques.
-- **[Reinforcement Learning Snake Game](https://github.com/your-snake-game-repo)**: Created a reinforcement learning-based AI to play a classic snake game, focusing on training the AI to navigate and collect rewards.
+- **[Reinforcement Learning Snake Game](https://github.com/egemertgulderen/Reinforcement-Learning-Snake-Game)**: Created a reinforcement learning-based AI to play a classic snake game, focusing on training the AI to navigate and collect rewards.
 
 ### ✉️ Contact Me
 
