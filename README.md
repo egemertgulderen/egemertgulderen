@@ -5,7 +5,7 @@
 - 🎓 Education: Senior Student, Bachelor’s degree in AI Engineering from Hacettepe University.
 - 🔭 Currently Working On: <strong>Afet & Sosyal Medya: Deprem - Duygu - Değişim</strong> and <strong>Multi-Agent Evolutionary Reinforcement Learning Ecosystem</strong>
 - 🌱 Currently Learning: <strong>Reinforcement Learning and Evolutionary AI</strong>
-- 📫 How to reach me: [egemertgulderen@gmail.com](mailto:egemertgulderen@gmail.com) | [LinkedIn](https://linkedin.com/in/egemertgülderen)
+- 📫 How to reach me: [egemertgulderen@gmail.com](mailto:egemertgulderen@gmail.com) || [LinkedIn](https://linkedin.com/in/egemertgülderen)
 
 
 ###
