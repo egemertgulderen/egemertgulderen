@@ -14,18 +14,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! I'm Egemert Gulderen 👋
+# Hi there! I'm Ege Mert Gülderen 👋
 
 ## About Me
-I'm a senior student in AI Engineering, passionate about game development and machine learning. I enjoy creating innovative projects and exploring new technologies.
-- 📫 How to reach me: egemertgulderen@gmail.com | linkedin.com/in/egemertgülderen
+I'm an AI Engineer and also passionate about Game Development and Psychology
+- 🌱 I’m currently learning: Evolutionary AI and Reinforcement Learning
+- 🔭 I’m currently working on my article: Afet & Sosyal Medya: Deprem - Duygu - Değişim
+- 📫 How to reach me: [egemertgulderen@gmail.com](mailto:egemertgulderen@gmail.com) |[LinkedIn](https://linkedin.com/in/egemertgülderen)
 
 ## Skills
-- **Programming Languages**: Python, C#, Java
-- **Game Development**: Unity, Unreal Engine 5, Pygame
-- **Machine Learning**: Deep Learning, Anomaly Detection, NLP
-- **Web Technologies**: HTML, CSS, JavaScript
-- **Tools & Frameworks**: TensorFlow, PyTorch, Zemberek-NLP
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-333333?style=flat-square&logo=unrealengine&logoColor=ffffff)
+![Pygame](https://img.shields.io/badge/Pygame-000000?style=flat-square&logo=pygame&logoColor=ffffff)
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=keras&logoColor=ffffff)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-FF6F00?style=flat-square&logo=python&logoColor=ffffff)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square&logo=python&logoColor=ffffff)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
+![Zemberek-NLP](https://img.shields.io/badge/Zemberek--NLP-4B8BBE?style=flat-square&logo=python&logoColor=ffffff)
+
 
 ## Projects
 ### 🎮 Game Development
