@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ege Mert Gülderen</h1>
 <h3 align="center">AI Engineer with a passion for Game Development and Psychology.</h3>
-
-- 🔭 I’m currently working on **Afet & Sosyal Medya: Deprem - Duygu - Değişim**
-
-- 🌱 I’m currently learning **Reinforcement Learning and Evolutionary AI**
-
-- 📫 How to reach me [egemertgulderen@gmail.com](mailto:egemertgulderen@gmail.com) || [LinkedIn](https://linkedin.com/in/egemertgülderen)
+- 🎓 Education: Senior Student, Bachelor’s degree in AI Engineering from Hacettepe University.
+- 🔭 Currently Working On: **Afet & Sosyal Medya: Deprem - Duygu - Değişim** and **Multi-Agent Evolutionary Reinforcement Learning Ecosystem**
+- 🌱 Currently Learning: **Reinforcement Learning and Evolutionary AI**
 
 ###
 
@@ -34,6 +31,13 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="30" alt="tensorflow logo"  />
 </div>
 
+
+## Projects
+### 🎮 Game Development
+- **[Angband-inspired Roguelike](https://github.com/egemertgulderen/PythonRoguelike)**: A classic roguelike game developed in Python, featuring procedural generation and strategic gameplay.
+- **[3D Anomaly Detection](https://github.com/your-3d-anomaly-detection-repo)**: An autoencoder-based project for detecting anomalies in 3D models using the MVTec dataset.
+- **[Sentiment Analysis on Earthquake Tweets](https://github.com/your-sentiment-analysis-repo)**: Analyzing Twitter responses to the 2023 earthquake in Turkey using NLP techniques.
+
 ### Contact Me
 
 <div align="left">
@@ -44,5 +48,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 
 
