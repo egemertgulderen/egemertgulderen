@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ege Mert Gülderen</h1>
 <h3 align="center">AI Engineer with a passion for Game Development and Psychology.</h3>
-- 🎓 Education: Senior Student, Bachelor’s degree in AI Engineering from Hacettepe University.
-- 🔭 Currently Working On: **Afet & Sosyal Medya: Deprem - Duygu - Değişim** and **Multi-Agent Evolutionary Reinforcement Learning Ecosystem**
-- 🌱 Currently Learning: **Reinforcement Learning and Evolutionary AI**
+
+<hr>
+<h4>🎓 Education:</h4>
+<p>Senior Student, Bachelor’s degree in AI Engineering from Hacettepe University.</p>
+
+<hr>
+<h4>🔭 Currently Working On:</h4>
+<p>**Afet & Sosyal Medya: Deprem - Duygu - Değişim** and **Multi-Agent Evolutionary Reinforcement Learning Ecosystem**</p>
+
+<hr>
+<h4>🌱 Currently Learning:</h4>
+<p>**Reinforcement Learning and Evolutionary AI**</p>
+<hr>
+
 
 ###
 
