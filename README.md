@@ -2,6 +2,7 @@
 <h3 align="center">AI Engineer with a passion for Game Development and Psychology.</h3>
 
 
+### 📖 About Me 
 - 🎓 Education: Senior Student, Bachelor’s degree in AI Engineering from Hacettepe University.</td>
 - 🔭 Currently Working On: <strong>Afet & Sosyal Medya: Deprem - Duygu - Değişim</strong> and <strong>Multi-Agent Evolutionary Reinforcement Learning Ecosystem</strong></td>
 - 🌱 Currently Learning: <strong>Reinforcement Learning and Evolutionary AI</strong></td>
@@ -15,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egemertgulderen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Skills
+### 🛠️Skills
 
 <div align="left">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="30" alt="unity logo"  />
@@ -42,7 +43,7 @@
 - **[3D Anomaly Detection](https://github.com/your-3d-anomaly-detection-repo)**: An autoencoder-based project for detecting anomalies in 3D models using the MVTec dataset.
 - **[Sentiment Analysis on Earthquake Tweets](https://github.com/your-sentiment-analysis-repo)**: Analyzing Twitter responses to the 2023 earthquake in Turkey using NLP techniques.
 
-### Contact Me
+### ✉️ Contact Me
 
 <div align="left">
   <a href="egemertgulderen@gmail.com" target="_blank">
