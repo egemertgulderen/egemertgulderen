@@ -6,6 +6,8 @@
 - 🎓 Education: Senior Student, Bachelor’s degree in AI Engineering from Hacettepe University.</td>
 - 🔭 Currently Working On: <strong>Afet & Sosyal Medya: Deprem - Duygu - Değişim</strong> and <strong>Multi-Agent Evolutionary Reinforcement Learning Ecosystem</strong></td>
 - 🌱 Currently Learning: <strong>Reinforcement Learning and Evolutionary AI</strong></td>
+- 📫 How to reach me: [egemertgulderen@gmail.com](mailto:egemertgulderen@gmail.com) | [LinkedIn](https://linkedin.com/in/egemertgülderen)
+
 
 
 
@@ -45,14 +47,9 @@
 
 ### ✉️ Contact Me
 
-<div align="center">
-  <a href="mailto:egemertgulderen@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon_%282020-2021%29.svg" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/egemertgülderen/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/egemertgülderen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egemertgülderen" height="30" width="40" /></a>
+</p>
 
 
 
