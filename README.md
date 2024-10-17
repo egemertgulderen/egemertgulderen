@@ -42,8 +42,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/egemertgulderen/egemertgulderen/output/snake.svg" alt="Snake animation" />
-
-###
