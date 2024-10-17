@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me
 I'm a senior student in AI Engineering, passionate about game development and machine learning. I enjoy creating innovative projects and exploring new technologies.
+- 📫 How to reach me: egemertgulderen@gmail.com | linkedin.com/in/egemertgülderen
 
 ## Skills
 - **Programming Languages**: Python, C#, Java
