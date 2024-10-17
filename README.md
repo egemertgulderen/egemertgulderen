@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ege Mert Gülderen</h1>
 <h3 align="center">AI Engineer with a passion for Game Development and Psychology.</h3>
 
-
 ### 📖 About Me 
-- 🎓 Education: Senior Student, Bachelor’s degree in AI Engineering from Hacettepe University.</td>
-- 🔭 Currently Working On: <strong>Afet & Sosyal Medya: Deprem - Duygu - Değişim</strong> and <strong>Multi-Agent Evolutionary Reinforcement Learning Ecosystem</strong></td>
-- 🌱 Currently Learning: <strong>Reinforcement Learning and Evolutionary AI</strong></td>
+- 🎓 Education: Senior Student, Bachelor’s degree in AI Engineering from Hacettepe University.
+- 🔭 Currently Working On: <strong>Afet & Sosyal Medya: Deprem - Duygu - Değişim</strong> and <strong>Multi-Agent Evolutionary Reinforcement Learning Ecosystem</strong>
+- 🌱 Currently Learning: <strong>Reinforcement Learning and Evolutionary AI</strong>
 - 📫 How to reach me: [egemertgulderen@gmail.com](mailto:egemertgulderen@gmail.com) | [LinkedIn](https://linkedin.com/in/egemertgülderen)
-
-
 
 
 ###
@@ -42,15 +39,17 @@
 ## Projects
 ### 🎮 Game Development
 - **[Angband-inspired Roguelike](https://github.com/egemertgulderen/PythonRoguelike)**: A classic roguelike game developed in Python, featuring procedural generation and strategic gameplay.
+- **[Particle Physics Simulation](https://github.com/your-particle-physics-repo)**: Developed a particle physics simulation game from scratch using Python, focusing on realistic behavior and interaction of particles.
+- **[Procedural Dungeon Crawler](https://github.com/your-dungeon-crawler-repo)**: Created a Unity-based dungeon crawler inspired by games like *Enter the Gungeon*, with procedural generation, combat system, and power-ups.
+
+### 🤖 Artificial Intelligence
 - **[3D Anomaly Detection](https://github.com/your-3d-anomaly-detection-repo)**: An autoencoder-based project for detecting anomalies in 3D models using the MVTec dataset.
 - **[Sentiment Analysis on Earthquake Tweets](https://github.com/your-sentiment-analysis-repo)**: Analyzing Twitter responses to the 2023 earthquake in Turkey using NLP techniques.
+- **[Reinforcement Learning Snake Game](https://github.com/your-snake-game-repo)**: Created a reinforcement learning-based AI to play a classic snake game, focusing on training the AI to navigate and collect rewards.
 
 ### ✉️ Contact Me
 
-Email: egemertgulderen@gmail.com
-Location: Ankara, Turkey
-GitHub: egemertgulderen
-LinkedIn: in\egemertgulderen
-
-
-
+- **Email:** [egemertgulderen@gmail.com](mailto:egemertgulderen@gmail.com)
+- **Location:** Ankara, Turkey
+- **GitHub:** [github.com/egemertgulderen](https://github.com/egemertgulderen)
+- **LinkedIn:** [linkedin.com/in/egemertgülderen](https://linkedin.com/in/egemertgülderen)
